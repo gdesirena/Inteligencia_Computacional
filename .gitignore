@@ -22,6 +22,14 @@ var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
+Introducción/Notebooks
+Modulo1/Notebooks
+Modulo2/Notebooks
+Modulo3/Notebooks
+Modulo1/Slides/slides_recursos
+Modulo2/Slides/slides_recursos
+Modulo3/Slides/slides_recursos
+Proyecto Final/
 *.egg-info/
 .installed.cfg
 *.egg
